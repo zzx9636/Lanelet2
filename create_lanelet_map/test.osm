@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="lanelet2">
+  <node id="1987" visible="true" version="1" lat="0.00002713108" lon="0">
+    <tag k="ele" v="0.00000071111" />
+  </node>
+  <node id="1988" visible="true" version="1" lat="0.00002713108" lon="0.00004491576">
+    <tag k="ele" v="0.00000267212" />
+  </node>
+  <node id="1990" visible="true" version="1" lat="0" lon="0" />
+  <node id="1991" visible="true" version="1" lat="0" lon="0.00004491576">
+    <tag k="ele" v="0.00000196031" />
+  </node>
+  <node id="1994" visible="true" version="1" lat="0.00002713108" lon="0.00004491576">
+    <tag k="ele" v="0.00000267212" />
+  </node>
+  <node id="1995" visible="true" version="1" lat="0.00003617478" lon="0.00008983153">
+    <tag k="ele" v="0.00000910238" />
+  </node>
+  <node id="1997" visible="true" version="1" lat="0" lon="0.00004491576">
+    <tag k="ele" v="0.00000196031" />
+  </node>
+  <node id="1998" visible="true" version="1" lat="0.00000904369" lon="0.00008983153">
+    <tag k="ele" v="0.00000791789" />
+  </node>
+  <node id="2001" visible="true" version="1" lat="0.00002713108" lon="0.00004491576">
+    <tag k="ele" v="0.00000267212" />
+  </node>
+  <node id="2002" visible="true" version="1" lat="-0.00000904369" lon="0.00008983153">
+    <tag k="ele" v="0.00000791789" />
+  </node>
+  <node id="2004" visible="true" version="1" lat="0" lon="0.00004491576">
+    <tag k="ele" v="0.00000196031" />
+  </node>
+  <node id="2005" visible="true" version="1" lat="-0.00003617478" lon="0.00008983153">
+    <tag k="ele" v="0.00000910238" />
+  </node>
+  <node id="2008" visible="true" version="1" lat="-0.00000904369" lon="0.00008983153">
+    <tag k="ele" v="0.00000791789" />
+  </node>
+  <node id="2009" visible="true" version="1" lat="-0.00000904369" lon="0.00013474729">
+    <tag k="ele" v="0.00001771731" />
+  </node>
+  <node id="2011" visible="true" version="1" lat="-0.00003617478" lon="0.00008983153">
+    <tag k="ele" v="0.00000910238" />
+  </node>
+  <node id="2012" visible="true" version="1" lat="-0.00003617478" lon="0.00013474729">
+    <tag k="ele" v="0.00001890109" />
+  </node>
+  <node id="2015" visible="true" version="1" lat="0.00000904369" lon="0.00008983153">
+    <tag k="ele" v="0.00000791789" />
+  </node>
+  <node id="2016" visible="true" version="1" lat="0.00000904369" lon="0.00013474729">
+    <tag k="ele" v="0.00001771731" />
+  </node>
+  <node id="2018" visible="true" version="1" lat="0.00003617478" lon="0.00008983153">
+    <tag k="ele" v="0.00000910238" />
+  </node>
+  <node id="2019" visible="true" version="1" lat="0.00003617478" lon="0.00013474729">
+    <tag k="ele" v="0.00001890109" />
+  </node>
+  <way id="1986" visible="true" version="1">
+    <nd ref="1987" />
+    <nd ref="1988" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="1989" visible="true" version="1">
+    <nd ref="1990" />
+    <nd ref="1991" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="1993" visible="true" version="1">
+    <nd ref="1994" />
+    <nd ref="1995" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="1996" visible="true" version="1">
+    <nd ref="1997" />
+    <nd ref="1998" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2000" visible="true" version="1">
+    <nd ref="2001" />
+    <nd ref="2002" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2003" visible="true" version="1">
+    <nd ref="2004" />
+    <nd ref="2005" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2007" visible="true" version="1">
+    <nd ref="2008" />
+    <nd ref="2009" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2010" visible="true" version="1">
+    <nd ref="2011" />
+    <nd ref="2012" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2014" visible="true" version="1">
+    <nd ref="2015" />
+    <nd ref="2016" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <way id="2017" visible="true" version="1">
+    <nd ref="2018" />
+    <nd ref="2019" />
+    <tag k="subtype" v="dashed" />
+    <tag k="type" v="line_thin" />
+  </way>
+  <relation id="1992" visible="true" version="1">
+    <member type="way" ref="1986" role="left" />
+    <member type="way" ref="1989" role="right" />
+    <tag k="type" v="lanelet" />
+    <tag k="vehicle" v="yes" />
+  </relation>
+  <relation id="1999" visible="true" version="1">
+    <member type="way" ref="1993" role="left" />
+    <member type="way" ref="1996" role="right" />
+    <tag k="type" v="lanelet" />
+    <tag k="vehicle" v="yes" />
+  </relation>
+  <relation id="2006" visible="true" version="1">
+    <member type="way" ref="2000" role="left" />
+    <member type="way" ref="2003" role="right" />
+    <tag k="type" v="lanelet" />
+    <tag k="vehicle" v="yes" />
+  </relation>
+  <relation id="2013" visible="true" version="1">
+    <member type="way" ref="2007" role="left" />
+    <member type="way" ref="2010" role="right" />
+    <tag k="type" v="lanelet" />
+    <tag k="vehicle" v="yes" />
+  </relation>
+  <relation id="2020" visible="true" version="1">
+    <member type="way" ref="2014" role="left" />
+    <member type="way" ref="2017" role="right" />
+    <tag k="type" v="lanelet" />
+    <tag k="vehicle" v="yes" />
+  </relation>
+</osm>
